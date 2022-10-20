@@ -14,5 +14,5 @@ line2: 231.321 2.222 -5.676
 You can also change your input if you want by changing the input function of the code.
 
 
-#Citing:
+# Citing:
 H. You, S. Li, L. Ma and D. Wang, "Leaf Area Index Retrieval for Broadleaf Trees by Envelope Fitting Method Using Terrestrial Laser Scanning data," in IEEE Geoscience and Remote Sensing Letters, 2022, doi: 10.1109/LGRS.2022.3214427.
